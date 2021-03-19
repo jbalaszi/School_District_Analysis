@@ -1,5 +1,5 @@
-## School_District_Analysis
-#Background
+# School_District_Analysis
+## Background
 Use Python to analysis school district performance and understanding how performance affects budget allocation. Further analysis was needed over the student data because of suspected academic dishonesty among one of the high schools. It was brought to the school boards and consulting firm's attention that students_complete.csv shows evidence of altered reading and math scores for nineth graders at Thomas High School. Our firm was hired to analyze this possible data alteration so state testing standards can remain upheld.
 
 This analysis compares previous data analyzation over school district data to help in determining how the suspected academic dishonesty affects school performace.
@@ -17,7 +17,7 @@ The following deliverables were requested by the school board:
     -schools_complete.csv
     -students_complete.csv
     
-#Results
+## Results
 1. District Summary (view image in resources folder)
 
 
@@ -50,7 +50,7 @@ Small- and Medium-sized school districts were very close in performance and outp
 Schools are classified as either district or charter. Charter schools performed better than district schools.
 (view image in resources folder)
 
-#Summary
+## Summary
 Removing 9th grade student scores from Thomas High School affected the school performance review by:
 -Average math scores dropped slightly (<1%)
 -Average reading scores not affected
